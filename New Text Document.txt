@@ -1,0 +1,17 @@
+\\arwen\Inetpub\wwwroot\Intranet\Applications\Games
+
+
+
+\\arwen\wwwroot_documents\created\games\
+
+\\arwen\Inetpub\wwwroot\Intranet\documents\created\games
+
+
+\\arwen\wwwroot_documents\created\games\id=10428&game=1428
+
+
+
+http://arwen/applications/games/game.aspx?type=scratch&id=10428&game=1461
+
+
+http://arwen/applications/games/testharness.aspx
